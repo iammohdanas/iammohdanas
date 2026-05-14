@@ -6,7 +6,7 @@ Passionate software engineer focused on building scalable fintech platforms, AI-
 
 Currently working as an **Executive Software Development Engineer at CSC e-Governance Services India Ltd. (Ministry of Electronics & IT, Govt. of India)**, where I develop large-scale fintech infrastructure and intelligent automation systems used across India. Previously worked with **Paytm**, contributing to payment systems, automation frameworks, and scalable backend services.
 
-I enjoy transforming complex business requirements into reliable, production-grade software solutions with a strong focus on scalability, performance, and user experience.
+I enjoy transforming complex business requirements into reliable, production-grade software solutions with a strong focus on scalability, performance, automation, and user experience.
 
 ---
 
@@ -15,7 +15,7 @@ I enjoy transforming complex business requirements into reliable, production-gra
 * 💳 Building fintech systems serving **5+ lakh CSC centers across India**
 * 🤖 Developing Agentic AI applications using **LangChain, LangGraph & RAG**
 * ⚡ Optimized AEPS biometric transaction flow by **80%**
-* 🌐 Experienced in building scalable APIs, async systems & workflow orchestration
+* 🌐 Experienced in scalable APIs, async systems & workflow orchestration
 * 🧠 Strong interest in AI automation, distributed systems & backend architecture
 * 🚀 Passionate about building products that solve real-world operational problems at scale
 
@@ -61,11 +61,11 @@ I enjoy transforming complex business requirements into reliable, production-gra
 
 ### 💳 DigiPay Fintech Ecosystem
 
-Large-scale fintech platform enabling AEPS, Micro-ATM, Wallet & banking services across India.
+Large-scale fintech platform enabling AEPS, Micro-ATM, Wallet & banking services across India with secure and high-concurrency transaction architecture.
 
 ### 🤖 Agentic AI Support Assistant
 
-AI-powered support system using:
+AI-powered support automation platform using:
 
 * LangChain
 * LangGraph
@@ -73,9 +73,50 @@ AI-powered support system using:
 * Vector Databases
 * Workflow Orchestration
 
+Automates transaction lookup, refund workflows, RCA generation, and intelligent support handling.
+
+### 🌍 EPC Land Acquisition & Tracking System
+
+Enterprise-grade land acquisition and tracking platform for EPC operations with:
+
+* Role-based workflow management
+* GIS/location-based land tracking
+* Document lifecycle management
+* Approval pipelines
+* API-driven modular architecture
+* AI-assisted operational workflows
+
+Designed for handling large-scale infrastructure and renewable energy land acquisition processes.
+
+### 📑 Automated GST Reconciliation & Human-in-the-Loop Approval System
+
+Intelligent reconciliation platform that compares GST portal data with organizational accounting records to identify mismatches, pending filings, and vendor compliance issues.
+
+Key Features:
+
+* Automated reconciliation engine
+* AI-assisted mismatch detection
+* Human-in-the-loop approval workflows
+* Vendor notification & escalation system
+* Role-based approval architecture
+* Automated email workflows & compliance tracking
+
+### 🖐️ Biometric Authentication System
+
+High-performance biometric authentication module developed using **ReactJS**, integrated with AEPS ecosystems and external biometric SDKs.
+
+Features include:
+
+* PID data processing
+* Device binding authentication
+* Secure biometric validation
+* Real-time transaction initiation
+* Third-party device integration
+* Optimized authentication performance
+
 ### 📈 Stock Market Forecasting System
 
-Machine learning-based forecasting and analytics platform for market trend prediction.
+Machine learning-based forecasting and analytics platform for market trend prediction and stock analysis.
 
 ### ❤️ Heart Disease Prediction System
 
@@ -84,15 +125,6 @@ Healthcare prediction application using machine learning algorithms and predicti
 ### 🌍 Himalayan Edges
 
 Travel management and booking platform developed for a client project.
-
----
-
-## 📊 GitHub Stats
-
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=iammohdanas&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iammohdanas&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
@@ -116,6 +148,7 @@ Travel management and booking platform developed for a client project.
 * 🚀 Built one of India’s fastest AEPS transaction systems
 * 📄 Published IEEE research paper on Voice Assistant technologies
 * ⚡ Contributed to fintech systems outperforming major competitors in transaction speed & reliability
+* 🤖 Developed scalable Agentic AI workflow orchestration systems for enterprise support automation
 
 ---
 
