@@ -74,7 +74,7 @@ I enjoy transforming complex business requirements into **reliable, scalable and
 
 ## ☀️ Rays Power Infra
 
-### Software Engineer
+### Assistant Manager - FullStack + Agentic AI
 
 Currently working on software engineering initiatives for the **renewable energy and infrastructure domain**.
 
