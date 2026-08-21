@@ -1,159 +1,334 @@
 # Hi 👋, I'm Mohd Anas Ansari
 
-### Full-Stack Developer • Agentic GenAI Engineer • Fintech Architect
+### Backend Engineer • Full-Stack Developer • Agentic AI Engineer • FinTech
 
-Passionate software engineer focused on building scalable fintech platforms, AI-powered automation systems, and high-performance distributed applications.
+I’m a software engineer passionate about building **scalable backend systems, AI-powered applications, fintech platforms, and automation-driven products**.
 
-Currently working as an **Executive Software Development Engineer at CSC e-Governance Services India Ltd. (Ministry of Electronics & IT, Govt. of India)**, where I develop large-scale fintech infrastructure and intelligent automation systems used across India. Previously worked with **Paytm**, contributing to payment systems, automation frameworks, and scalable backend services.
+My experience spans **backend engineering, full-stack development, financial technology, distributed systems, API architecture, automation, and Generative AI**.
 
-I enjoy transforming complex business requirements into reliable, production-grade software solutions with a strong focus on scalability, performance, automation, and user experience.
-
----
-
-## 🚀 About Me
-
-* 💳 Building fintech systems serving **5+ lakh CSC centers across India**
-* 🤖 Developing Agentic AI applications using **LangChain, LangGraph & RAG**
-* ⚡ Optimized AEPS biometric transaction flow by **80%**
-* 🌐 Experienced in scalable APIs, async systems & workflow orchestration
-* 🧠 Strong interest in AI automation, distributed systems & backend architecture
-* 🚀 Passionate about building products that solve real-world operational problems at scale
+I enjoy taking complex real-world problems and turning them into **reliable, scalable and production-ready software**.
 
 ---
 
-## 🛠️ Tech Stack
+## 👨‍💻 About Me
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,react,js,bootstrap,html,css,postgres,mysql,redis,kafka,docker,aws,git,linux&perline=9" />
+* 🐍 Backend-focused engineer with strong experience in **Python**
+* 🤖 Building applications with **LLMs, RAG, LangChain & LangGraph**
+* 💳 Experience building and supporting **large-scale fintech systems**
+* ⚡ Experienced with **REST APIs, asynchronous processing and distributed workflows**
+* 🏗️ Interested in **system design, scalable architectures and AI agents**
+* 🌐 Full-stack experience with **Django, FastAPI, React and JavaScript**
+* ☁️ Experience with **Docker, AWS, CI/CD and cloud deployments**
+* 🔬 Passionate about applying AI to solve practical business problems
+
+---
+
+# 🛠️ Technology Stack
+
+### Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,php,html,css&perline=9" />
 </p>
 
-### ⚙️ AI / Backend Ecosystem
+### Backend
 
-`LangChain` • `LangGraph` • `RAG` • `FAISS` • `Pinecone` • `ChromaDB` • `Celery` • `REST APIs` • `AsyncIO` • `Distributed Systems`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=django,fastapi,flask&perline=9" />
+</p>
+
+`REST APIs` • `AsyncIO` • `Celery` • `Django REST Framework` • `WebSockets` • `Microservices`
+
+### Frontend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,vite&perline=9" />
+</p>
+
+### AI / Generative AI
+
+`LangChain` • `LangGraph` • `RAG` • `LLM Applications` • `AI Agents` • `Vector Search` • `FAISS` • `Pinecone` • `ChromaDB` • `Prompt Engineering`
+
+### Databases & Messaging
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,kafka&perline=9" />
+</p>
+
+### DevOps & Infrastructure
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,aws,git,githubactions,jenkins,linux&perline=9" />
+</p>
 
 ---
 
-## 💼 Professional Experience
+# 💼 Professional Experience
 
-### 🏛️ CSC e-Governance Services India Ltd.
+## 🚀 Current Role
 
-**Executive Software Development Engineer**
+### Software Engineer
 
-* Led the development of **DigiPay**, a fintech platform processing ₹50+ crore daily transactions
-* Built intelligent support automation systems using **LangChain + LangGraph**
-* Designed scalable backend workflows using **Celery, Redis & async architecture**
-* Integrated AEPS & Micro-ATM ecosystems with secure transaction handling
-* Developed real-time dashboards, monitoring systems & analytics workflows
-* Worked on device authentication, API orchestration & transaction optimization
+Currently focused on **backend engineering, scalable application development and AI-powered automation**.
 
-### 💙 Paytm
+My work involves building software systems with an emphasis on:
 
-**Software Engineer**
-
-* Developed and maintained scalable payment APIs
-* Worked on UPI Lite transaction workflows & validations
-* Built automation frameworks for payment testing systems
-* Integrated dynamic banking services and notification systems
+* Backend architecture
+* API development
+* AI-powered workflows
+* Automation
+* Distributed processing
+* Database design
+* System integration
+* Performance and reliability
 
 ---
 
-## 🚀 Featured Projects
+## 🏛️ CSC e-Governance Services India Ltd.
 
-### 💳 DigiPay Fintech Ecosystem
+### Executive Software Development Engineer
 
-Large-scale fintech platform enabling AEPS, Micro-ATM, Wallet & banking services across India with secure and high-concurrency transaction architecture.
+Previously worked on **DigiPay**, a large-scale fintech platform serving **5+ lakh Common Service Centers across India**.
 
-### 🤖 Agentic AI Support Assistant
+### Key Contributions
 
-AI-powered support automation platform using:
+* Developed and maintained large-scale financial transaction workflows
+* Worked with **AEPS and Micro-ATM ecosystems**
+* Built backend APIs and third-party service integrations
+* Developed desktop PWA and mobile WebView applications
+* Integrated biometric devices and external SDKs
+* Worked with asynchronous processing and distributed workflows
+* Developed monitoring and operational systems
+* Optimized biometric authentication and transaction processing workflows
+* Worked on AI-powered support and automation concepts using **LangChain and LangGraph**
 
-* LangChain
-* LangGraph
-* RAG Pipelines
-* Vector Databases
-* Workflow Orchestration
+### Technologies
 
-Automates transaction lookup, refund workflows, RCA generation, and intelligent support handling.
+`Python` • `Django` • `React` • `Redis` • `Celery` • `REST APIs` • `React Native` • `Docker`
 
-### 🌍 EPC Land Acquisition & Tracking System
+---
 
-Enterprise-grade land acquisition and tracking platform for EPC operations with:
+## 💙 Paytm
 
-* Role-based workflow management
-* GIS/location-based land tracking
-* Document lifecycle management
+### Software Engineer / SDET
+
+Previously worked with Paytm on payment technology, automation and transaction testing.
+
+### Key Contributions
+
+* Worked on payment and transaction workflows
+* Developed automated testing frameworks
+* Worked with **Java, Selenium, Appium and TestNG**
+* Automated critical payment scenarios
+* Performed API and transaction validation
+* Worked on mobile application automation
+* Contributed to improving testing reliability and coverage
+
+### Technologies
+
+`Java` • `Selenium` • `Appium` • `TestNG` • `REST APIs`
+
+---
+
+# 🚀 Featured Projects
+
+## 🤖 Agentic AI Support Assistant
+
+An AI-powered enterprise support automation system designed around **LLMs, RAG and agentic workflows**.
+
+### Core Technologies
+
+`LangChain` • `LangGraph` • `RAG` • `Vector Databases` • `LLMs` • `Python`
+
+### Capabilities
+
+* Intelligent transaction investigation
+* Knowledge retrieval
+* Transaction lookup
+* Root-cause analysis
+* Automated support workflows
+* Refund workflow assistance
+* Human-in-the-loop escalation
+* Context-aware decision making
+
+---
+
+## ⚡ Hybrid Energy Optimization Platform
+
+A large-scale renewable energy simulation and optimization platform designed to optimize the economics and dispatch of hybrid renewable projects.
+
+### System Components
+
+* ☀️ Solar generation
+* 🌬️ Wind generation
+* 🔋 Battery Energy Storage Systems
+* ⚡ Grid procurement
+* 💹 Merchant / IEX energy trading
+* 📉 Curtailment optimization
+* 📊 PPA compliance
+* 💰 Revenue and margin optimization
+
+Built using **Python, Streamlit, data processing and optimization algorithms** with large-scale hourly simulations.
+
+---
+
+## 🌍 EPC Land Acquisition & Tracking Platform
+
+Enterprise platform designed for managing land acquisition workflows for infrastructure and renewable-energy projects.
+
+### Features
+
+* Role-based access
+* Land tracking
+* GIS/location-based workflows
+* Document management
 * Approval pipelines
-* API-driven modular architecture
-* AI-assisted operational workflows
+* Operational dashboards
+* REST APIs
+* AI-assisted workflows
 
-Designed for handling large-scale infrastructure and renewable energy land acquisition processes.
+---
 
-### 📑 Automated GST Reconciliation & Human-in-the-Loop Approval System
+## 📑 GST Reconciliation & Compliance Automation
 
-Intelligent reconciliation platform that compares GST portal data with organizational accounting records to identify mismatches, pending filings, and vendor compliance issues.
+Automation platform designed to reconcile GST portal data with organizational accounting records.
 
-Key Features:
+### Features
 
-* Automated reconciliation engine
-* AI-assisted mismatch detection
-* Human-in-the-loop approval workflows
-* Vendor notification & escalation system
-* Role-based approval architecture
-* Automated email workflows & compliance tracking
+* Automated reconciliation
+* Mismatch detection
+* Vendor compliance tracking
+* Human-in-the-loop approvals
+* Automated notifications
+* Escalation workflows
+* Compliance monitoring
+* AI-assisted analysis
 
-### 🖐️ Biometric Authentication System
+---
 
-High-performance biometric authentication module developed using **ReactJS**, integrated with AEPS ecosystems and external biometric SDKs.
+## 🖐️ Biometric Authentication System
 
-Features include:
+High-performance biometric authentication solution integrated with AEPS ecosystems and external biometric devices.
+
+### Features
 
 * PID data processing
-* Device binding authentication
-* Secure biometric validation
+* Device binding
+* Biometric authentication
+* External SDK integration
 * Real-time transaction initiation
-* Third-party device integration
-* Optimized authentication performance
+* Secure device communication
+* Authentication performance optimization
 
-### 📈 Stock Market Forecasting System
+---
 
-Machine learning-based forecasting and analytics platform for market trend prediction and stock analysis.
+## 📈 Stock Market Forecasting System
 
-### ❤️ Heart Disease Prediction System
+Machine-learning-based platform for stock analysis and market trend forecasting.
 
-Healthcare prediction application using machine learning algorithms and predictive analytics.
+**Technologies:** Python • Machine Learning • Scikit-learn • Data Analysis
 
-### 🌍 Himalayan Edges
+---
+
+## ❤️ Heart Disease Prediction System
+
+Machine-learning application for predictive healthcare analytics and disease-risk prediction.
+
+**Technologies:** Python • Machine Learning • Scikit-learn
+
+---
+
+## 🌍 Himalayan Edges
 
 Travel management and booking platform developed for a client project.
 
+**Technologies:** Full-Stack Development • REST APIs • Database Integration
+
 ---
 
-## 🌐 Connect With Me
+# 🧠 Areas of Expertise
 
-<p>
+| Area                    | Technologies / Concepts                                  |
+| ----------------------- | -------------------------------------------------------- |
+| **Backend Engineering** | Python, Django, FastAPI, Flask                           |
+| **AI Engineering**      | LangChain, LangGraph, RAG, LLMs, AI Agents               |
+| **Distributed Systems** | Celery, Redis, Kafka, AsyncIO                            |
+| **Frontend**            | React, JavaScript, Bootstrap                             |
+| **Databases**           | PostgreSQL, MySQL, Redis                                 |
+| **Cloud & DevOps**      | Docker, AWS, GitHub Actions, Jenkins                     |
+| **FinTech**             | AEPS, Micro-ATM, Payment Systems, Transaction Processing |
+| **Testing**             | Selenium, Appium, TestNG, PyTest                         |
+| **Architecture**        | REST APIs, Microservices, Event-Driven Systems           |
+
+---
+
+# 🎯 What I'm Currently Working Toward
+
+I'm currently focusing heavily on becoming a stronger **Backend + Agentic AI Engineer**.
+
+### Current learning & engineering interests
+
+* 🤖 Advanced Agentic AI
+* 🔗 LangGraph architectures
+* 🧠 Multi-agent systems
+* 📚 Advanced RAG architectures
+* ⚡ LLM application development
+* 🏗️ System Design
+* 🌐 Scalable backend architecture
+* 🔄 Event-driven systems
+* ☁️ Cloud-native applications
+* 🐍 Advanced Python
+* 🚀 Production-grade AI systems
+
+---
+
+# 🏆 Highlights
+
+* 💳 Experience working on fintech infrastructure serving **5+ lakh CSC centers**
+* ⚡ Optimized biometric authentication workflows for significantly improved transaction performance
+* 🤖 Building **Agentic AI and RAG-based applications**
+* 🏗️ Experience with scalable backend and distributed architectures
+* 🔄 Experience with asynchronous workflows using **Celery, Redis and Kafka**
+* 📄 Published IEEE research related to **Voice Assistant Technologies**
+* 💻 Experience across **FinTech, AI, enterprise automation and renewable-energy technology**
+
+---
+
+# 📚 Education
+
+### 🎓 Bachelor of Technology — Computer Science & Engineering
+
+**Sharda University, Greater Noida**
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
   <a href="https://linkedin.com/in/iamanasansari">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+
   <a href="https://github.com/iammohdanas">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
 
-🌍 Portfolio: https://iamanasansari.space
+🌍 **Portfolio:**
+https://iamanasansari.space
 
 ---
 
-## 🏆 Achievements
+## 💡 Engineering Philosophy
 
-* 🚀 Built one of India’s fastest AEPS transaction systems
-* 📄 Published IEEE research paper on Voice Assistant technologies
-* ⚡ Contributed to fintech systems outperforming major competitors in transaction speed & reliability
-* 🤖 Developed scalable Agentic AI workflow orchestration systems for enterprise support automation
+> **“Build technology that solves real-world problems at scale.”**
+
+I believe great software engineering is not just about writing code.
+
+It is about **understanding the problem, designing the right architecture, building reliable systems, and continuously improving them as they scale.**
 
 ---
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=iammohdanas&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=iammohdanas&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
-
-> “Building technology that solves real-world problems at scale.”
