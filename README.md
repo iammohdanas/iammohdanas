@@ -1,29 +1,36 @@
 # Hi 👋, I'm Mohd Anas Ansari
 
-### Backend Engineer • Full-Stack Developer • Agentic AI Engineer • FinTech
+### Backend Engineer • Agentic AI Engineer • Full-Stack Developer
 
-I’m a software engineer passionate about building **scalable backend systems, AI-powered applications, fintech platforms, and automation-driven products**.
+I’m a software engineer focused on building **scalable backend systems, AI-powered applications, enterprise automation platforms, and data-driven optimization systems**.
 
-My experience spans **backend engineering, full-stack development, financial technology, distributed systems, API architecture, automation, and Generative AI**.
+Currently working at **Rays Power Infra**, where I work on software solutions for the **renewable energy and infrastructure domain**, including energy simulation, optimization, analytics and automation.
 
-I enjoy taking complex real-world problems and turning them into **reliable, scalable and production-ready software**.
+Previously, I worked at **CSC e-Governance Services India Ltd.**, contributing to large-scale fintech infrastructure, and at **Paytm**, working on payment technology and automation.
+
+My engineering interests sit at the intersection of:
+
+**Backend Engineering × Agentic AI × Distributed Systems × Renewable Energy × FinTech**
+
+I enjoy transforming complex business requirements into **reliable, scalable and production-ready software**.
 
 ---
 
-## 👨‍💻 About Me
+# 🚀 About Me
 
 * 🐍 Backend-focused engineer with strong experience in **Python**
-* 🤖 Building applications with **LLMs, RAG, LangChain & LangGraph**
-* 💳 Experience building and supporting **large-scale fintech systems**
-* ⚡ Experienced with **REST APIs, asynchronous processing and distributed workflows**
-* 🏗️ Interested in **system design, scalable architectures and AI agents**
-* 🌐 Full-stack experience with **Django, FastAPI, React and JavaScript**
-* ☁️ Experience with **Docker, AWS, CI/CD and cloud deployments**
-* 🔬 Passionate about applying AI to solve practical business problems
+* 🤖 Building **Agentic AI applications using LangChain & LangGraph**
+* ⚡ Developing optimization and simulation systems for **renewable energy**
+* 💳 Experience building large-scale **fintech and payment systems**
+* 🏗️ Experienced with **REST APIs, asynchronous processing and distributed workflows**
+* 🌐 Full-stack development using **Django, FastAPI, React and JavaScript**
+* 🔄 Experience with **Celery, Redis, Kafka and event-driven architectures**
+* ☁️ Experience with **Docker, AWS and CI/CD**
+* 🧠 Interested in **system design, AI agents and scalable software architecture**
 
 ---
 
-# 🛠️ Technology Stack
+# 🛠️ Tech Stack
 
 ### Languages
 
@@ -37,17 +44,17 @@ I enjoy taking complex real-world problems and turning them into **reliable, sca
   <img src="https://skillicons.dev/icons?i=django,fastapi,flask&perline=9" />
 </p>
 
-`REST APIs` • `AsyncIO` • `Celery` • `Django REST Framework` • `WebSockets` • `Microservices`
+`Django REST Framework` • `REST APIs` • `AsyncIO` • `Celery` • `WebSockets` • `Microservices`
 
 ### Frontend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,bootstrap,vite&perline=9" />
+  <img src="https://skillicons.dev/icons?i=react,vite,bootstrap&perline=9" />
 </p>
 
 ### AI / Generative AI
 
-`LangChain` • `LangGraph` • `RAG` • `LLM Applications` • `AI Agents` • `Vector Search` • `FAISS` • `Pinecone` • `ChromaDB` • `Prompt Engineering`
+`LangChain` • `LangGraph` • `RAG` • `LLMs` • `AI Agents` • `Vector Search` • `FAISS` • `Pinecone` • `ChromaDB`
 
 ### Databases & Messaging
 
@@ -65,42 +72,51 @@ I enjoy taking complex real-world problems and turning them into **reliable, sca
 
 # 💼 Professional Experience
 
-## 🚀 Current Role
+## ☀️ Rays Power Infra
 
 ### Software Engineer
 
-Currently focused on **backend engineering, scalable application development and AI-powered automation**.
+Currently working on software engineering initiatives for the **renewable energy and infrastructure domain**.
 
-My work involves building software systems with an emphasis on:
+My work involves developing technology-driven solutions for energy operations, simulation, optimization and analytics.
 
-* Backend architecture
-* API development
-* AI-powered workflows
-* Automation
-* Distributed processing
-* Database design
-* System integration
-* Performance and reliability
+### Key Areas
+
+* ⚡ Renewable energy simulation and optimization
+* ☀️ Solar generation analysis
+* 🌬️ Wind generation analysis
+* 🔋 Battery Energy Storage System optimization
+* 📊 Energy dispatch and PPA compliance
+* 💰 Revenue and margin optimization
+* 📉 Curtailment and shortfall optimization
+* 🧮 Large-scale hourly energy simulations
+* 📈 Data-driven operational analytics
+* 🤖 Exploring AI-assisted automation for enterprise workflows
+
+### Technologies
+
+`Python` • `Streamlit` • `Pandas` • `NumPy` • `Optimization Algorithms` • `Excel/Data Processing` • `REST APIs`
 
 ---
 
-## 🏛️ CSC e-Governance Services India Ltd.
+# 🏛️ CSC e-Governance Services India Ltd.
 
 ### Executive Software Development Engineer
 
-Previously worked on **DigiPay**, a large-scale fintech platform serving **5+ lakh Common Service Centers across India**.
+Previously worked on **DigiPay**, a large-scale fintech platform supporting **5+ lakh Common Service Centers across India**.
 
 ### Key Contributions
 
 * Developed and maintained large-scale financial transaction workflows
 * Worked with **AEPS and Micro-ATM ecosystems**
-* Built backend APIs and third-party service integrations
-* Developed desktop PWA and mobile WebView applications
+* Developed backend APIs and third-party integrations
+* Built desktop PWA and mobile WebView applications
 * Integrated biometric devices and external SDKs
-* Worked with asynchronous processing and distributed workflows
+* Developed asynchronous processing workflows
+* Worked with **Redis and Celery**
 * Developed monitoring and operational systems
-* Optimized biometric authentication and transaction processing workflows
-* Worked on AI-powered support and automation concepts using **LangChain and LangGraph**
+* Optimized biometric authentication workflows
+* Explored AI-powered support automation using **LangChain and LangGraph**
 
 ### Technologies
 
@@ -108,7 +124,7 @@ Previously worked on **DigiPay**, a large-scale fintech platform serving **5+ la
 
 ---
 
-## 💙 Paytm
+# 💙 Paytm
 
 ### Software Engineer / SDET
 
@@ -122,7 +138,7 @@ Previously worked with Paytm on payment technology, automation and transaction t
 * Automated critical payment scenarios
 * Performed API and transaction validation
 * Worked on mobile application automation
-* Contributed to improving testing reliability and coverage
+* Improved testing reliability and coverage
 
 ### Technologies
 
@@ -130,58 +146,77 @@ Previously worked with Paytm on payment technology, automation and transaction t
 
 ---
 
-# 🚀 Featured Projects
+# 💼 Mediology Software Pvt. Ltd.
 
-## 🤖 Agentic AI Support Assistant
+### Software Engineering Intern — Backend
 
-An AI-powered enterprise support automation system designed around **LLMs, RAG and agentic workflows**.
+Started my professional software engineering journey working on backend development and web technologies.
 
-### Core Technologies
+Worked with:
 
-`LangChain` • `LangGraph` • `RAG` • `Vector Databases` • `LLMs` • `Python`
-
-### Capabilities
-
-* Intelligent transaction investigation
-* Knowledge retrieval
-* Transaction lookup
-* Root-cause analysis
-* Automated support workflows
-* Refund workflow assistance
-* Human-in-the-loop escalation
-* Context-aware decision making
+`Python` • `Django` • `REST APIs` • `MySQL` • `JavaScript`
 
 ---
 
+# 🚀 Featured Projects
+
 ## ⚡ Hybrid Energy Optimization Platform
 
-A large-scale renewable energy simulation and optimization platform designed to optimize the economics and dispatch of hybrid renewable projects.
+A large-scale renewable energy simulation and optimization platform developed for hybrid renewable projects.
 
-### System Components
+The system models and optimizes:
 
 * ☀️ Solar generation
 * 🌬️ Wind generation
 * 🔋 Battery Energy Storage Systems
 * ⚡ Grid procurement
 * 💹 Merchant / IEX energy trading
-* 📉 Curtailment optimization
+* 📉 Curtailment
 * 📊 PPA compliance
-* 💰 Revenue and margin optimization
+* 💰 Revenue
+* 📈 Margin
+* ⚡ Shortfall
+* 🔄 Energy dispatch
 
-Built using **Python, Streamlit, data processing and optimization algorithms** with large-scale hourly simulations.
+The simulator processes **8760 hourly records** and evaluates multiple combinations of renewable generation capacity and BESS configurations.
+
+### Engineering Focus
+
+**Simulation • Optimization • Energy Dispatch • BESS • PPA Compliance • Revenue Optimization • Data Processing**
+
+---
+
+## 🤖 Agentic AI Support Assistant
+
+AI-powered enterprise support automation platform using:
+
+* LangChain
+* LangGraph
+* RAG
+* Vector databases
+* LLMs
+* Workflow orchestration
+
+### Capabilities
+
+* Transaction investigation
+* Intelligent information retrieval
+* Root-cause analysis
+* Refund workflow assistance
+* Automated support workflows
+* Human-in-the-loop escalation
 
 ---
 
 ## 🌍 EPC Land Acquisition & Tracking Platform
 
-Enterprise platform designed for managing land acquisition workflows for infrastructure and renewable-energy projects.
+Enterprise platform designed for managing land acquisition operations for infrastructure and renewable-energy projects.
 
 ### Features
 
-* Role-based access
-* Land tracking
-* GIS/location-based workflows
-* Document management
+* Role-based workflows
+* GIS/location-based tracking
+* Document lifecycle management
 * Approval pipelines
 * Operational dashboards
 * REST APIs
@@ -208,7 +243,7 @@ Automation platform designed to reconcile GST portal data with organizational ac
 
 ## 🖐️ Biometric Authentication System
 
-High-performance biometric authentication solution integrated with AEPS ecosystems and external biometric devices.
+High-performance biometric authentication system integrated with AEPS ecosystems and external biometric devices.
 
 ### Features
 
@@ -218,7 +253,7 @@ High-performance biometric authentication solution integrated with AEPS ecosyste
 * External SDK integration
 * Real-time transaction initiation
 * Secure device communication
-* Authentication performance optimization
+* Performance optimization
 
 ---
 
@@ -232,7 +267,7 @@ Machine-learning-based platform for stock analysis and market trend forecasting.
 
 ## ❤️ Heart Disease Prediction System
 
-Machine-learning application for predictive healthcare analytics and disease-risk prediction.
+Machine-learning application for predictive healthcare analytics.
 
 **Technologies:** Python • Machine Learning • Scikit-learn
 
@@ -248,31 +283,30 @@ Travel management and booking platform developed for a client project.
 
 # 🧠 Areas of Expertise
 
-| Area                    | Technologies / Concepts                                  |
-| ----------------------- | -------------------------------------------------------- |
-| **Backend Engineering** | Python, Django, FastAPI, Flask                           |
-| **AI Engineering**      | LangChain, LangGraph, RAG, LLMs, AI Agents               |
-| **Distributed Systems** | Celery, Redis, Kafka, AsyncIO                            |
-| **Frontend**            | React, JavaScript, Bootstrap                             |
-| **Databases**           | PostgreSQL, MySQL, Redis                                 |
-| **Cloud & DevOps**      | Docker, AWS, GitHub Actions, Jenkins                     |
-| **FinTech**             | AEPS, Micro-ATM, Payment Systems, Transaction Processing |
-| **Testing**             | Selenium, Appium, TestNG, PyTest                         |
-| **Architecture**        | REST APIs, Microservices, Event-Driven Systems           |
+| Area                    | Technologies / Concepts                        |
+| ----------------------- | ---------------------------------------------- |
+| **Backend Engineering** | Python, Django, FastAPI, Flask                 |
+| **Agentic AI**          | LangChain, LangGraph, RAG, LLMs, AI Agents     |
+| **Distributed Systems** | Celery, Redis, Kafka, AsyncIO                  |
+| **Frontend**            | React, JavaScript, Bootstrap                   |
+| **Databases**           | PostgreSQL, MySQL, Redis                       |
+| **FinTech**             | AEPS, Micro-ATM, Payment Systems               |
+| **Renewable Energy**    | Solar, Wind, BESS, PPA, Energy Optimization    |
+| **DevOps**              | Docker, AWS, GitHub Actions, Jenkins           |
+| **Testing**             | Selenium, Appium, TestNG, PyTest               |
+| **Architecture**        | REST APIs, Microservices, Event-Driven Systems |
 
 ---
 
-# 🎯 What I'm Currently Working Toward
+# 🎯 Currently Exploring
 
-I'm currently focusing heavily on becoming a stronger **Backend + Agentic AI Engineer**.
-
-### Current learning & engineering interests
+I'm currently deepening my expertise in **Backend Engineering and Agentic AI**.
 
 * 🤖 Advanced Agentic AI
-* 🔗 LangGraph architectures
-* 🧠 Multi-agent systems
-* 📚 Advanced RAG architectures
-* ⚡ LLM application development
+* 🔗 LangGraph
+* 🧠 Multi-agent architectures
+* 📚 Advanced RAG
+* ⚡ LLM application architecture
 * 🏗️ System Design
 * 🌐 Scalable backend architecture
 * 🔄 Event-driven systems
@@ -284,19 +318,20 @@ I'm currently focusing heavily on becoming a stronger **Backend + Agentic AI Eng
 
 # 🏆 Highlights
 
-* 💳 Experience working on fintech infrastructure serving **5+ lakh CSC centers**
-* ⚡ Optimized biometric authentication workflows for significantly improved transaction performance
-* 🤖 Building **Agentic AI and RAG-based applications**
-* 🏗️ Experience with scalable backend and distributed architectures
-* 🔄 Experience with asynchronous workflows using **Celery, Redis and Kafka**
+* ⚡ Building software solutions for the **renewable energy sector**
+* 💳 Experience with fintech infrastructure supporting **5+ lakh CSC centers**
+* 🚀 Worked on large-scale **AEPS and Micro-ATM ecosystems**
+* 🤖 Building **Agentic AI and RAG-based enterprise applications**
+* 🔄 Experience with asynchronous and distributed backend systems
+* 🧮 Developed large-scale renewable energy simulation and optimization systems
 * 📄 Published IEEE research related to **Voice Assistant Technologies**
-* 💻 Experience across **FinTech, AI, enterprise automation and renewable-energy technology**
+* 💻 Experience across **Renewable Energy, FinTech, AI and Enterprise Automation**
 
 ---
 
-# 📚 Education
+# 🎓 Education
 
-### 🎓 Bachelor of Technology — Computer Science & Engineering
+### Bachelor of Technology — Computer Science & Engineering
 
 **Sharda University, Greater Noida**
 
@@ -323,7 +358,7 @@ https://iamanasansari.space
 
 > **“Build technology that solves real-world problems at scale.”**
 
-I believe great software engineering is not just about writing code.
+I believe great software engineering is about more than writing code.
 
 It is about **understanding the problem, designing the right architecture, building reliable systems, and continuously improving them as they scale.**
 
